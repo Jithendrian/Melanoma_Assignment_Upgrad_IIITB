@@ -68,7 +68,7 @@ The data set contains the following diseases:
 - Augmentation process helps to reduce the overfitting
 - Balancing out helps to an extent
 - Accuracy on training data has increased by using Augmentor library
-- To increase the accuracy of unseen data we may need more data to get trained
+- To increase the accuracy of unseen data we may need more data/ images to get trained
 
 
 ##  Contact
