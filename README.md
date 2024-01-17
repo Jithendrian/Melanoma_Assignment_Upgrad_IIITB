@@ -61,12 +61,14 @@ The data set contains the following diseases:
   
 
 ##  Conclusions
+
 - Model is still overfitting
 - The problem of overfitting can be solved by add more layer,neurons or adding dropout layers.
 - The Model can be further improved by tuning the hyperparameter
-- Augmentation process helps to increase the accuracy of the training data
+- Augmentation process helps to reduce the overfitting
 - Balancing out helps to an extent
 - Accuracy on training data has increased by using Augmentor library
+- To increase the accuracy of unseen data we may need more data to get trained
 
 
 ##  Contact
