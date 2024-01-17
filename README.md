@@ -74,9 +74,10 @@ The data set contains the following diseases:
 ##  Contact
 
   
-- Created by [@jithendrian] (https://github.com/Jithendrian/AdvancedRegression) 
+- Created by [@jithendrian] (https://github.com/Jithendrian/Melanoma_Assignment_Upgrad_IIITB/tree/main) 
 
 - jithendrian@gmail.com 
 - Assignment
-    - Main folder : https://github.com/Jithendrian/AdvancedRegression
-    - Python/ ipynb : https://github.com/Jithendrian/AdvancedRegression/blob/main/AdvancedRegression.ipynb
+    - Main folder : https://github.com/Jithendrian/Melanoma_Assignment_Upgrad_IIITB
+
+    - Python/ ipynb : https://github.com/Jithendrian/Melanoma_Assignment_Upgrad_IIITB/blob/main/Jithendrian_Sundaravaradan_nn.ipynb
