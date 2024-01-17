@@ -13,7 +13,7 @@
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
-* [Miscellaneous](#miscellaneous)
+
 
 ##  General Information
 
@@ -60,15 +60,13 @@ The data set contains the following diseases:
 - Matplotlib  
   
 
-##  Conclusion
-- Accuracy on training data has increased by using Augmentor library
+##  Conclusions
 - Model is still overfitting
 - The problem of overfitting can be solved by add more layer,neurons or adding dropout layers.
 - The Model can be further improved by tuning the hyperparameter
-
 - Augmentation process helps to increase the accuracy of the training data
-- Model can be improved further using various hyper parameters
-- Overfitting can be solved by adding more layers and dropouts
+- Balancing out helps to an extent
+- Accuracy on training data has increased by using Augmentor library
 
 
 ##  Contact
@@ -81,3 +79,8 @@ The data set contains the following diseases:
     - Main folder : https://github.com/Jithendrian/Melanoma_Assignment_Upgrad_IIITB
 
     - Python/ ipynb : https://github.com/Jithendrian/Melanoma_Assignment_Upgrad_IIITB/blob/main/Jithendrian_Sundaravaradan_nn.ipynb
+
+
+## Acknowledgements
+
+Thank you Upgrad and IIITB for this assignment
